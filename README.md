@@ -38,6 +38,34 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 ---
 
+## 🧾 Resume Overview
+
+> Architecting scalable systems with clarity, confidence, and code that lasts.
+
+### Roles & Impact
+- **MRI Software (2024):** Integrated post-acquisition systems and scaled infrastructure.
+- **eGent (2023):** Technical founder, rebuilt platform → led to acquisition.
+- **Cumulus Media (2013–2024):** Engineered broadcast-critical systems, patented automation.
+
+### Skills & Specialties
+
+[![Ruby](https://img.shields.io/badge/-Ruby-cc342d?logo=ruby)]()  
+[![Rails](https://img.shields.io/badge/-Rails-cc0000?logo=rubyonrails&logoColor=white)]()  
+[![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black)]()  
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)]()  
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)]()  
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)]()  
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions)]()  
+[![CI/CD](https://img.shields.io/badge/-CI/CD-orange)]()  
+[![Stimulus](https://img.shields.io/badge/-StimulusJS-fcaf3e?logo=stimulus)]()  
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript)]()
+
+### Full Resume
+
+[View detailed resume →](https://github.com/roaring-lion-33/resume.md)
+
+---
+
 ## What I Believe
 
 > **Clarity beats complexity.**  
