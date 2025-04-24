@@ -23,28 +23,6 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 ---
 
-## Spotlight Repos
-
-<p align="center">
-  <a href="https://github.com/advancedsoftwaresolutions/rapidfirereports">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=advancedsoftwaresolutions&repo=rapidfirereports&theme=dark&border_color=30363d" />
-  </a>
-  <a href="https://github.com/zerotoone-so/zero_to_one_ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerotoone-so&repo=zero_to_one_ui&theme=dark&border_color=30363d" />
-  </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roaring-lion-33&show_icons=true&theme=dark&count_private=true&hide_border=true&hide=stars" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roaring-lion-33&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## Trophies
 
 <p align="center">
