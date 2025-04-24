@@ -48,7 +48,3 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 - LinkedIn: [Frank Camp](https://www.linkedin.com/in/frankcamp/)
 - Email: [frank@zerotoone.cloud](mailto:frank@zerotoone.cloud)
-
-> “From architecture to execution, I help visionaries go from 0 → 1.”
-
----
