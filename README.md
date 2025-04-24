@@ -23,11 +23,6 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 ---
 
-![Frank's GitHub stats](https://raw.githubusercontent.com/roaring-lion-33/github-readme-stats/main/stats.svg)
-
-
----
-
 ## Trophies
 
 <p align="center">
