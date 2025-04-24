@@ -31,6 +31,19 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 ---
 
+## Current Projects
+
+- **Recovery Companion App**: An AI-powered recovery assistant for milestone tracking, daily journaling, and wellness check-ins.
+- **LaunchPad**: A startup MVP builder for founders — complete with onboarding flows, build simulations, and launch-ready scaffolds.
+
+---
+
+## What I Believe
+
+> **Clarity beats complexity.**  
+> **Speed should serve structure.**  
+> **Software should inspire confidence.**
+
 ## Connect with Me
 
 - LinkedIn: [Frank Camp](https://www.linkedin.com/in/frankcamp/)
