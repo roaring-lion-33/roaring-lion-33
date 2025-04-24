@@ -62,7 +62,7 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 ### Full Resume
 
-[View detailed resume →](https://github.com/roaring-lion-33/resume.md)
+[View detailed resume →](https://github.com/roaring-lion-33/RESUME.md)
 
 ---
 
