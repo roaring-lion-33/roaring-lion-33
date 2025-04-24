@@ -23,6 +23,13 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats-roaring-lion-33.vercel.app/api?username=roaring-lion-33&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-roaring-lion-33.vercel.app/api/top-langs/?username=roaring-lion-33&layout=compact&theme=dark" />
+</p>
+
+---
+
 ## Trophies
 
 <p align="center">
