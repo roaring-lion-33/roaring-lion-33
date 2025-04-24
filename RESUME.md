@@ -66,8 +66,7 @@
 
 - [GitHub](https://github.com/roaring-lion-33)  
 - [LinkedIn](https://linkedin.com/in/franklincamp)  
-- [Email](mailto:frank@frankcamp.tech)  
-- [Website](https://zerotoone.cloud)
+- [Email](mailto:frank@frankcamp.tech) 
 
 ---
 
