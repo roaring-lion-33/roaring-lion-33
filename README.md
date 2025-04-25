@@ -64,6 +64,7 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 ### Skills & Specialties
 
+<p align="center">
 [![Ruby](https://img.shields.io/badge/-Ruby-cc342d?logo=ruby)]()  
 [![Rails](https://img.shields.io/badge/-Rails-cc0000?logo=rubyonrails&logoColor=white)]()  
 [![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black)]()  
@@ -74,6 +75,7 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 [![CI/CD](https://img.shields.io/badge/-CI/CD-orange)]()  
 [![Stimulus](https://img.shields.io/badge/-StimulusJS-fcaf3e?logo=stimulus)]()  
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript)]()
+</p>
 
 ### Full Resume
 
