@@ -90,4 +90,4 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 ## Connect with Me
 
 - LinkedIn: [Frank Camp](https://www.linkedin.com/in/frankcamp/)
-- Email: [frank@zerotoone.cloud](mailto:frank@zerotoone.cloud)
+- Email: [frank@frankcamp.tech](mailto:frank@frankcamp.tech)
