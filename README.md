@@ -8,6 +8,17 @@
 
 ---
 
+## 🧑‍💻 Open to Consulting, Freelance & MVP Builds
+
+Looking to turn your idea into a working product — fast?
+
+> I specialize in **designing, building, and launching MVPs** with Rails, React, Stripe, and scalable infra.  
+> Available for **consulting, technical advising, or full builds**.
+
+**Let’s talk:** [frank@frankcamp.tech](mailto:frank@frankcamp.tech)
+
+---
+
 # Hi, I’m Frank Camp – Full Stack Architect & Product Engineer
 
 Welcome to my GitHub. I specialize in building scalable, high-performance software systems from the ground up – balancing architectural clarity, elegant UX, and rock-solid infrastructure
