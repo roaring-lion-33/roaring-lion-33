@@ -16,6 +16,13 @@ Looking to turn your idea into a working product — fast?
 > Available for **consulting, technical advising, or full builds**.
 
 **Let’s talk:** [frank@frankcamp.tech](mailto:frank@frankcamp.tech)
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Founder%20at%20ZeroToOne-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rails%20Dev-since%202012-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Available-Freelance%20%7C%20MVP%20Builds-22c55e?style=for-the-badge&logo=briefcase" />
+  <img src="https://img.shields.io/badge/Based%20in-Denver%2C%20CO-0ea5e9?style=for-the-badge&logo=location-dot" />
+  <img src="https://img.shields.io/badge/Contact-frank@zerotoone.cloud-black?style=for-the-badge&logo=gmail" />
+</p>
 
 ---
 
