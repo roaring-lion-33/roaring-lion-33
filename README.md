@@ -31,6 +31,11 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 ---
 
+![Commits this year](https://img.shields.io/github/commit-activity/y/roaring-lion-33)
+![Stars](https://img.shields.io/github/stars/roaring-lion-33?style=social)
+
+---
+
 ## Current Projects
 
 - **Clarity**: An AI-powered recovery companion/assistant for milestone tracking, daily journaling, and wellness check-ins.
