@@ -89,5 +89,5 @@ Welcome to my GitHub. I specialize in building scalable, high-performance softwa
 
 ## Connect with Me
 
-- LinkedIn: [Frank Camp](https://www.linkedin.com/in/frankcamp/)
+- LinkedIn: [Frank Camp](https://www.linkedin.com/in/franklincamp/)
 - Email: [frank@frankcamp.tech](mailto:frank@frankcamp.tech)
