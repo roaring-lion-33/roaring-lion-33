@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roaring-lion-33/roaring-lion-33/main/0204.png" alt="Frank Camp Banner" />
+</p>
+
 <h1 align="center">Frank Camp – Full Stack Architect & Product Engineer</h1>
 
 <p align="center">
