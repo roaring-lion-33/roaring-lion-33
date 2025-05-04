@@ -72,7 +72,7 @@ Looking to turn your idea into a working product — fast?
 
 ### Full Resume
 
-[View detailed resume →](https://github.com/roaring-lion-33/RESUME.md)
+[View detailed resume →](https://github.com/roaring-lion-33/roaring-lion-33/RESUME.md)
 
 ---
 
@@ -127,7 +127,7 @@ Explore polished case studies, animations, and interactive demos of my work:
       Reimagined mileage tracker with CSV exports and mobile-first UX.
     </td>
     <td align="center">
-      <img src="https://www.frankcamp.tech/images/banner-ui-kit.png" width="300" alt="MVP UI Kit" /><br/>
+      <img src="https://www.frankcamp.tech/images/banner-ztoui.png" width="300" alt="MVP UI Kit" /><br/>
       <b>MVP UI Kit</b><br/>
       React component system with onboarding flows, PDF previews, and Tailwind polish.
     </td>
