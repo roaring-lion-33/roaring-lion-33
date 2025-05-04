@@ -115,7 +115,7 @@ Explore polished case studies, animations, and interactive demos of my work:
       Smart PDF reporting system with dynamic forms, client portals, and Grover export.
     </td>
     <td align="center">
-      <img src="https://www.frankcamp.tech/images/banner-zero-to-one.png" width="300" alt="ZeroToOne Site" /><br/>
+      <img src="https://www.frankcamp.tech/images/banner-zto.png" width="300" alt="ZeroToOne Site" /><br/>
       <b>ZeroToOne</b><br/>
       Animated agency site with a scroll timeline, product builder sim, and CTA design.
     </td>
